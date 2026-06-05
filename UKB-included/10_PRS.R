@@ -1,6 +1,3 @@
-## Written by Jonny Flint
-
-##This document provides code and methods used for analyzing polygenic risk scores (PRS) and structural equation modeling (SEM) within the context of genome-wide association studies (GWAS). The code includes steps for regression modeling, elastic net regression, quintile analysis, and cognitive change modeling.
 
 # Packages and Data Loading
 library(dplyr)
