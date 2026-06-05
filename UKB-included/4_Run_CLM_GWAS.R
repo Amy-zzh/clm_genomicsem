@@ -1,6 +1,4 @@
-## Run the GWAS of the bifactor model on the Colorado Research Computing Cluster
 
-#set the working directory
 #loading necessary R packages
 require(gdata)
 require(lavaan)
