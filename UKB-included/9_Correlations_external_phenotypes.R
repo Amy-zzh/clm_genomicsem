@@ -1,5 +1,4 @@
 
-# Conduct LDSC with CLM model traits plus external phenotype you want to assess the rg for
 setwd("../GSEM/External/Format_GWAS/")
 
 library(dplyr)
